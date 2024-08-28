@@ -1,9 +1,7 @@
 <html lang = en>
 <head>
-<title>Party</title>
-
-
-
-
-  
+  <title>Party</title>
 </head>
+<body>
+
+</body>
